@@ -6,7 +6,7 @@ I developed an interactive Power BI dashboard based on survey responses from **2
 
 ### 📷 Dashboard Preview
 
-<img src="dashboard/dashboard-screenshot.png" alt="Dashboard Screenshot" width="100%" />
+<img src="[dashboard/dashboard-screenshot.png](https://github.com/Ncheruiyot/Powerbi-data-survey-dashboard/blob/main/Dashboard)" alt="Dashboard Screenshot" width="100%" />
 
 ---
 
